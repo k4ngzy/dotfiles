@@ -78,6 +78,7 @@
 (require 'init-copilot)
 (require 'init-pdf)
 (require 'init-org)
+(require 'init-sp)
 ;; if you don't want to use `use-package :vc'
 ;; (require 'init-package)
 
