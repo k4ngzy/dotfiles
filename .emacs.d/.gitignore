@@ -1,0 +1,24 @@
+*.elc
+
+# autosave
+auto-save-list/
+#*#
+.#*
+
+# caches
+eln-cache/
+var/
+etc/
+
+# tree-sitter
+tree-sitter/
+
+# experiments
+tutorial/
+
+# custom
+custom.el
+
+# backup
+*~
+.DS_Store
